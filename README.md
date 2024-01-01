@@ -11,5 +11,6 @@ The whole idea is to make a calculator calculate like a human. I literally mean 
 It sound really absurd, but I think it is easier than I thought, but I have to test to know how hard it is.
 
 
-<span color="red">Reminder</span>
+!#f03c15 `Reminder`
+
 A number with more than 5 decimal places cannot be calculated. At least for now.
