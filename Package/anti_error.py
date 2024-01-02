@@ -7,6 +7,4 @@ def controll(object):
 
 def number(object: float):
     controll(object)
-    print(object)
     object = list(str(object))
-    print(object)
